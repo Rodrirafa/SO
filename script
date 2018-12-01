@@ -1,0 +1,7 @@
+export FILE="/home/rodrigo/Desktop/TP1819/tpmeta1/medit"
+export FIFO="/home/rodrigo/Desktop/TP1819/tpmeta1/fifogeral"
+export INTERACTIVE=3
+export MEDIT_MAXLINES=15
+export MEDIT_MAXCOLUMNS=45
+export MEDIT_TIMEOUT=10
+export MEDIT_MAXUSERS=3
